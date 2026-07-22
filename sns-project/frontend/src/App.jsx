@@ -202,7 +202,7 @@ function App() {
     <div className="app-container">
       <header className="navbar">
         <div className="nav-content">
-          <h1 className="logo" onClick={() => setTargetUserId(null)}>Mora-X</h1>
+          <h1 className="logo" onClick={() => setTargetUserId(null)}>kamal-X</h1>
           
           <div className="test-user-selector">
             <label htmlFor="user-id-select">テスト操作ユーザーID: </label>
